@@ -1,0 +1,28 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nle641999/Social-Network-API.git"
+  },
+  "keywords": [],
+  "author": "Nicholas Le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nle641999/Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/nle641999/Social-Network-API#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "mongoose": "^6.8.1",
+    "nodemon": "^2.0.20"
+  }
+}
